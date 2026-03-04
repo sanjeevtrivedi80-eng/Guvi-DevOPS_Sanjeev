@@ -1,0 +1,4 @@
+Welcome to the system. Please give your credentials.
+Welcome back. Give the command to proceed.
+Welcome user. Give input to continue. 
+System is ready. Welcome. Give authorization.
