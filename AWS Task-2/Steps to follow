@@ -1,0 +1,6 @@
+Step-1 : Create the VPC.
+Step-2 : Create the Internet Gateway and attached with VPC.
+Step-3 : Create two subnets, Public subnet and Private subnet. also enable auto assign ip address on public subnet.
+Step-4 : Create Route Table using VPC, IGW, Subnets.
+Step-5 : Create new Linux Instance using this VPC.
+Step-6 : Ran the update command to test of sucessfull task. 
