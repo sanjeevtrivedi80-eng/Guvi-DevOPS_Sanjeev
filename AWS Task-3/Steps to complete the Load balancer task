@@ -1,0 +1,5 @@
+Step-1 :  Create the 2 server in Linux.
+Step-2 :  Update and install the Apache on both server.
+Step-3 :  Create the Target Group.
+Step-4  : Create the Application Load Balancer using the same target group.
+Step-5 : Run the Load Balancer DNS address on the internet to connect the both server. Output screenshot attached.
